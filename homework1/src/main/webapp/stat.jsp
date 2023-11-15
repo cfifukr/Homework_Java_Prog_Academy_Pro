@@ -65,5 +65,9 @@
   </tbody>
 </table>
 
+<form action="${pageContext.request.contextPath}/form" method="get">
+  <button class="btn btn-dark" type="submit">Go to Form</button>
+</form>
+
 </body>
 </html>
