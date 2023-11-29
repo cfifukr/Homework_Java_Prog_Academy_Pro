@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28cf959c-1e52-492d-9011-773949cb5973" name="Changes" comment="homework1">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="28cf959c-1e52-492d-9011-773949cb5973" name="Changes" comment="homework1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,6 +165,7 @@
       <workItem from="1700061106539" duration="197000" />
       <workItem from="1700144855604" duration="223000" />
       <workItem from="1700474682014" duration="691000" />
+      <workItem from="1700590210087" duration="232000" />
     </task>
     <task id="LOCAL-00001" summary="homework1">
       <option name="closed" value="true" />
